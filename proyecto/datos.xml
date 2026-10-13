@@ -3,9 +3,9 @@
 <catalogo propietario="yexinyi0609-nini">
     <elemento id="001">
         <nombre>Alex</nombre>
-        <cumple>Verano 13.0</cumple>
+        <cumple>Verano 13</cumple>
         <vive>Pueblo pelícano</vive>
-        <direcion>Calle del río, 1.0</direcion>
+        <direcion>Calle del río, 1</direcion>
         <familia>George(Abuelo) y Evelyn(Abuela)</familia>
         <matrimonio>Si</matrimonio>
         <visitaClinica>Verano 16</visitaClinica>
@@ -13,7 +13,7 @@
     </elemento>
     <elemento id="002">
         <nombre>Elliott</nombre>
-        <cumple>Otoño 5.0</cumple>
+        <cumple>Otoño 5</cumple>
         <vive>La playa</vive>
         <direcion>Cabaña de Elliott</direcion>
         <matrimonio>Si</matrimonio>
@@ -22,7 +22,7 @@
     </elemento>
     <elemento id="003">
         <nombre>Harvey</nombre>
-        <cumple>Invierno 14.0</cumple>
+        <cumple>Invierno 14</cumple>
         <vive>Pueblo Pelícano</vive>
         <direcion>Clínica de Harvey</direcion>
         <matrimonio>Si</matrimonio>
@@ -30,9 +30,9 @@
     </elemento>
     <elemento id="004">
         <nombre>Sam</nombre>
-        <cumple>Invierno 17.0</cumple>
+        <cumple>Invierno 17</cumple>
         <vive>Pueblo Pelícano</vive>
-        <direcion>Camino del Sauce, 1.0</direcion>
+        <direcion>Camino del Sauce, 1</direcion>
         <familia>Jodi(Madre),Kent(Padre) y Viccent(Hermano)</familia>
         <matrimonio>Si</matrimonio>
         <visitaClinica>Otoño 11</visitaClinica>
@@ -40,22 +40,61 @@
     </elemento>
     <elemento id="005">
         <nombre>Sebastian</nombre>
-        <cumple>Invierno 10.0</cumple>
+        <cumple>Invierno 10</cumple>
         <vive>La montaña</vive>
-        <direcion>Carretera de la Montaña,24.0</direcion>
-         <familia>Robin(Madre),Demetrius(Padrastro) y Maru(Media hermana)</familia>
+        <direcion>Carretera de la Montaña,24</direcion>
+        <familia>Robin(Madre),Demetrius(Padrastro) y Maru(Media hermana)</familia>
         <matrimonio>Si</matrimonio>
         <visitaClinica>Verano 4</visitaClinica>
         <mejoresRegalos>Huevo de rana,Huevo sombrío, Lágrima helada, Obsidiana, Sashimi, Sopa de calabaza</mejoresRegalos>
     </elemento>
     <elemento id="006">
         <nombre>Shane</nombre>
-        <cumple>Verano 20.0</cumple>
+        <cumple>Verano 20</cumple>
         <vive>Bosque Tizón</vive>
         <direcion>Rancho de Marnie</direcion>
-         <familia>Mmie(Tía),Jas(Ahijada)</familia>
+        <familia>Mmie(Tía),Jas(Ahijada)</familia>
         <matrimonio>Si</matrimonio>
         <mejoresRegalos>Bocaditos de pimiento, Cerveza, Chile, Pizza</mejoresRegalos>
+    </elemento>
+    <elemento id="006">
+        <nombre>Abigail</nombre>
+        <cumple>Otoño 13</cumple>
+        <vive>Pueblo Pelícano</vive>
+        <direcion>Tienda local Pierre's</direcion>
+        <familia>Caroline(Madre), Pierre(Padre) </familia>
+        <matrimonio>Si</matrimonio>
+        <visitaClinica>Primavera 4</visitaClinica>
+        <mejoresRegalos>Amatista, Anguila picante, Anguila picante, Calabaza, Compendio de Monstruos, Pastel de chocolate, Pez globo, Pudding de plátano, Tarta de moras</mejoresRegalos>
+    </elemento>
+    <elemento id="007">
+        <nombre>Emily</nombre>
+        <cumple>Primavera 17</cumple>
+        <vive>Pueblo Pelícano</vive>
+        <direcion>Camino del Sauce, 2</direcion>
+        <familia>Haley(Hermana)</familia>
+        <matrimonio>Si</matrimonio>
+        <visitaClinica>Invierno 11</visitaClinica>
+        <mejoresRegalos>Amatista, Aguamarina, Esmeralda, Hamburguesa, Huevo de loro, Jade, Lana, Rubí, Tela, Topacio</mejoresRegalos>
+    </elemento>
+    <elemento id="008">
+        <nombre>Haley</nombre>
+        <cumple>Primavera 14</cumple>
+        <vive>Pueblo Pelícano</vive>
+        <direcion>Camino del Sauce, 2</direcion>
+        <familia>Emily(Hermana)</familia>
+        <matrimonio>Si</matrimonio>
+        <visitaClinica>Invierno 9</visitaClinica>
+        <mejoresRegalos>Coco, Girasol, Macedonia, Pastel rosa</mejoresRegalos>
+    </elemento>
+    <elemento id="009">
+        <nombre>Leah</nombre>
+        <cumple>Invierno 23</cumple>
+        <vive>Bosque Tizón</vive>
+        <direcion>Cabaña de Leah</direcion>
+        <matrimonio>Si</matrimonio>
+        <visitaClinica>Primavera 16</visitaClinica>
+        <mejoresRegalos>Ensalada, Estofado vegetal, Muffin de amapola, Queso de cabra, Sofrito, Trufa, Vino</mejoresRegalos>
     </elemento>
 
 </catalogo>
