@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Datos de los aldeanos-->
+<catalogo propietario="yexinyi0609-nini">
+    <elemento id="001">
+        <nombre>Alex</nombre>
+        <cumple>Verano 13.0</cumple>
+        <vive>Pueblo pelícano</vive>
+        <direcion>Calle del río, 1.0</direcion>
+        <familia>George(Abuelo) y Evelyn(Abuela)</familia>
+        <matrimonio>Si</matrimonio>
+        <visitaClinica>Verano 16</visitaClinica>
+        <mejoresRegalos>Banquete de salmón, Desayuno inglés, Jack sé ágil, Jack sé fuerte</mejoresRegalos>
+    </elemento>
+    <elemento id="002">
+        <nombre>Elliott</nombre>
+        <cumple>Otoño 5.0</cumple>
+        <vive>La playa</vive>
+        <direcion>Cabaña de Elliott</direcion>
+        <matrimonio>Si</matrimonio>
+        <visitaClinica>Verano 9</visitaClinica>
+        <mejoresRegalos>Granada, Langosta, Pluma de pato, Sopa Tom Kha, Tinta de calamar, Tortas de cangrejo</mejoresRegalos>
+    </elemento>
+    <elemento id="003">
+        <nombre>Harvey</nombre>
+        <cumple>Invierno 14.0</cumple>
+        <vive>Pueblo Pelícano</vive>
+        <direcion>Clínica de Harvey</direcion>
+        <matrimonio>Si</matrimonio>
+        <mejoresRegalos>Aceite de trufa, Café,Mermeladas y Encurtidos, Supercomida, Vino</mejoresRegalos>
+    </elemento>
+    <elemento id="004">
+        <nombre>Sam</nombre>
+        <cumple>Invierno 17.0</cumple>
+        <vive>Pueblo Pelícano</vive>
+        <direcion>Camino del Sauce, 1.0</direcion>
+        <familia>Jodi(Madre),Kent(Padre) y Viccent(Hermano)</familia>
+        <matrimonio>Si</matrimonio>
+        <visitaClinica>Otoño 11</visitaClinica>
+        <mejoresRegalos>Bollito de arce, Higo chumbo, Ojo de tigre, Pizza</mejoresRegalos>
+    </elemento>
+    <elemento id="005">
+        <nombre>Sebastian</nombre>
+        <cumple>Invierno 10.0</cumple>
+        <vive>La montaña</vive>
+        <direcion>Carretera de la Montaña,24.0</direcion>
+         <familia>Robin(Madre),Demetrius(Padrastro) y Maru(Media hermana)</familia>
+        <matrimonio>Si</matrimonio>
+        <visitaClinica>Verano 4</visitaClinica>
+        <mejoresRegalos>Huevo de rana,Huevo sombrío, Lágrima helada, Obsidiana, Sashimi, Sopa de calabaza</mejoresRegalos>
+    </elemento>
+    <elemento id="006">
+        <nombre>Shane</nombre>
+        <cumple>Verano 20.0</cumple>
+        <vive>Bosque Tizón</vive>
+        <direcion>Rancho de Marnie</direcion>
+         <familia>Mmie(Tía),Jas(Ahijada)</familia>
+        <matrimonio>Si</matrimonio>
+        <mejoresRegalos>Bocaditos de pimiento, Cerveza, Chile, Pizza</mejoresRegalos>
+    </elemento>
+
+</catalogo>

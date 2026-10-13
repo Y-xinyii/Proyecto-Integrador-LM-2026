@@ -11,3 +11,6 @@ He creado una página web sobre mi juego favorito, con su título, dos párrafo 
 He añadido un archivo XML con los datos de los aldeanos
 He subido a GitHub con vaios commit.
 
+-- rETO 3
+## qUÉ HE HECHO EN ESTA ENTREGA?
+He creado los datos propios de cada paldeanos con atributos id único
