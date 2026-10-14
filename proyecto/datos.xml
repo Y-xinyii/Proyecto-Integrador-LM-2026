@@ -10,6 +10,7 @@
     <matrimonio>Si</matrimonio>
     <visitaClinica>Verano 16</visitaClinica>
     <mejoresRegalos>Banquete de salmón, Desayuno inglés, Jack sé ágil, Jack sé fuerte</mejoresRegalos>
+    <precio moneda="oro" objeto="Jack sé ágil, Jack sé fuerte">500.0</precio>
   </elemento>
   <elemento id="002">
     <nombre>Elliott</nombre>
@@ -18,8 +19,8 @@
     <direcion>Cabaña de Elliott</direcion>
     <matrimonio>Si</matrimonio>
     <visitaClinica>Verano 9</visitaClinica>
-    <mejoresRegalos>Granada, Langosta, Pluma de pato, Sopa Tom Kha, Tinta de calamar, Tortas de
-      cangrejo</mejoresRegalos>
+    <mejoresRegalos>Granada, Langosta, Pluma de pato, Sopa Tom Kha, Tinta de calamar, Pasteles de cangrejo</mejoresRegalos>
+    <precio moneda="oro" objeto="Pasteles de cangrejo">550.0</precio>
   </elemento>
   <elemento id="003">
     <nombre>Harvey</nombre>
@@ -28,6 +29,7 @@
     <direcion>Clínica de Harvey</direcion>
     <matrimonio>Si</matrimonio>
     <mejoresRegalos>Aceite de trufa, Café,Mermeladas y Encurtidos, Supercomida, Vino</mejoresRegalos>
+    <precio moneda="oro" objeto="Café">300.0</precio>
   </elemento>
   <elemento id="004">
     <nombre>Sam</nombre>
@@ -38,6 +40,7 @@
     <matrimonio>Si</matrimonio>
     <visitaClinica>Otoño 11</visitaClinica>
     <mejoresRegalos>Bollito de arce, Higo chumbo, Ojo de tigre, Pizza</mejoresRegalos>
+    <precio moneda="oro" objeto="Pizza">600.0</precio>
   </elemento>
   <elemento id="005">
     <nombre>Sebastian</nombre>
@@ -49,6 +52,7 @@
     <visitaClinica>Verano 4</visitaClinica>
     <mejoresRegalos>Huevo de rana,Huevo sombrío, Lágrima helada, Obsidiana, Sashimi, Sopa de
       calabaza</mejoresRegalos>
+    <precio moneda="oro" objeto="Sopa de calabaza">250.0</precio>
   </elemento>
   <elemento id="006">
     <nombre>Shane</nombre>
@@ -70,6 +74,7 @@
     <visitaClinica>Primavera 4</visitaClinica>
     <mejoresRegalos>Amatista, Anguila picante, Anguila picante, Calabaza, Compendio de Monstruos,
       Pastel de chocolate, Pez globo, Pudding de plátano, Tarta de moras</mejoresRegalos>
+    <precio moneda="oro" objeto="Pez globo">600.0</precio>
   </elemento>
   <elemento id="007">
     <nombre>Emily</nombre>
@@ -81,6 +86,7 @@
     <visitaClinica>Invierno 11</visitaClinica>
     <mejoresRegalos>Amatista, Aguamarina, Esmeralda, Hamburguesa, Huevo de loro, Jade, Lana, Rubí,
       Tela, Topacio</mejoresRegalos>
+    <precio moneda="oro" objeto="Huevo de loro">250.0</precio>
   </elemento>
   <elemento id="008">
     <nombre>Haley</nombre>
@@ -91,6 +97,7 @@
     <matrimonio>Si</matrimonio>
     <visitaClinica>Invierno 9</visitaClinica>
     <mejoresRegalos>Coco, Girasol, Macedonia, Pastel rosa</mejoresRegalos>
+    <precio moneda="oro" objeto="Coco">200.0</precio>
   </elemento>
   <elemento id="009">
     <nombre>Leah</nombre>
@@ -101,6 +108,7 @@
     <visitaClinica>Primavera 16</visitaClinica>
     <mejoresRegalos>Ensalada, Estofado vegetal, Muffin de amapola, Queso de cabra, Sofrito, Trufa,
       Vino</mejoresRegalos>
+    <precio moneda="oro" objeto="Ensalada">220.0</precio>
   </elemento>
   <elemento id="010">
     <nombre>Maru</nombre>
@@ -111,6 +119,7 @@
     <mejoresRegalos>Paquete de baterías, Coliflor, Coliflor de queso, Diamante, Gadget Enano, Barra
       de oro, Barra de Iridio, Premio de los mineros, Pepper Poppers,Barra radiactiva, Tarta de
       ruibarbo, Fresa</mejoresRegalos>
+    <precio moneda="oro" objeto="Premio de los mineros">1000.0</precio>
   </elemento>
   <elemento id="011">
     <nombre>Peny</nombre>
@@ -122,6 +131,7 @@
     <visitaClinica>Invierno 4</visitaClinica>
     <mejoresRegalos>Todos los libros, Diamante, Esmeralda, Melón, Poppy, Magdalena de semillas de
       amapola, Placa Roja, Bandeja de raíces, Pez de arena, Sopa Tom Kha</mejoresRegalos>
+    <precio moneda="oro" objeto="Pez de arena">225.0</precio>
   </elemento>
 
 </catalogo>
