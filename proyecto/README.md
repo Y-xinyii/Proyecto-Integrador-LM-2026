@@ -12,4 +12,7 @@ He añadido un archivo XML con los datos de los aldeanos
 He subido a GitHub con vaios commit.
 
 ## Reto 3 qué he hecho?
-He creado los datos propios de cada paldeanos con atributos id único
+He creado los datos personales de cada aldeanos con atributos id único y sus regalos favoritos.
+
+## Reta 4, qué he hecho?
+He revisado los error que había en index.html, he terminado de rellenar los datos de los aldeanos en datos.xml. Web se puede abri correctamente con Live Server y con error 0
