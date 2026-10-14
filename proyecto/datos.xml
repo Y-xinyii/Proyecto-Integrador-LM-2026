@@ -56,6 +56,7 @@
         <familia>Mmie(Tía),Jas(Ahijada)</familia>
         <matrimonio>Si</matrimonio>
         <mejoresRegalos>Bocaditos de pimiento, Cerveza, Chile, Pizza</mejoresRegalos>
+        <precio moneda="oro" objeto="cerveza">400.0</precio>
     </elemento>
     <elemento id="006">
         <nombre>Abigail</nombre>
@@ -95,6 +96,24 @@
         <matrimonio>Si</matrimonio>
         <visitaClinica>Primavera 16</visitaClinica>
         <mejoresRegalos>Ensalada, Estofado vegetal, Muffin de amapola, Queso de cabra, Sofrito, Trufa, Vino</mejoresRegalos>
+    </elemento>
+    <elemento id="010">
+        <nombre>Maru</nombre>
+        <cumple>Verano 10</cumple>
+        <vive>La montaña</vive>
+        <direcion>22 Carretera de la Montaña</direcion>
+        <matrimonio>Si</matrimonio>
+        <mejoresRegalos>Paquete de baterías, Coliflor, Coliflor de queso, Diamante, Gadget Enano, Barra de oro, Barra de Iridio, Premio de los mineros, Pepper Poppers,Barra radiactiva, Tarta de ruibarbo, Fresa</mejoresRegalos>
+    </elemento>
+    <elemento id="011">
+        <nombre>Peny</nombre>
+        <cumple>Otoño 2</cumple>
+        <vive>Pueblo Pelícano</vive>
+        <direcion>Remolque</direcion>
+        <familia>Pam (Madre)<familia>
+        <matrimonio>Si</matrimonio>
+        <visitaClinica>Invierno 4</visitaClinica>
+        <mejoresRegalos>Todos los libros, Diamante, Esmeralda, Melón, Poppy, Magdalena de semillas de amapola, Placa Roja, Bandeja de raíces, Pez de arena, Sopa Tom Kha</mejoresRegalos>
     </elemento>
 
 </catalogo>
