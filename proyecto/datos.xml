@@ -12,6 +12,7 @@
     <mejoresRegalos>Banquete de salmón, Desayuno inglés, Jack sé ágil, Jack sé fuerte</mejoresRegalos>
     <precio moneda="oro" objeto="Jack sé ágil, Jack sé fuerte">500.0</precio>
   </elemento>
+
   <elemento id="002">
     <nombre>Elliott</nombre>
     <cumple>Otoño 5</cumple>
@@ -22,6 +23,7 @@
     <mejoresRegalos>Granada, Langosta, Pluma de pato, Sopa Tom Kha, Tinta de calamar, Pasteles de cangrejo</mejoresRegalos>
     <precio moneda="oro" objeto="Pasteles de cangrejo">550.0</precio>
   </elemento>
+
   <elemento id="003">
     <nombre>Harvey</nombre>
     <cumple>Invierno 14</cumple>
@@ -31,6 +33,7 @@
     <mejoresRegalos>Aceite de trufa, Café,Mermeladas y Encurtidos, Supercomida, Vino</mejoresRegalos>
     <precio moneda="oro" objeto="Café">300.0</precio>
   </elemento>
+
   <elemento id="004">
     <nombre>Sam</nombre>
     <cumple>Invierno 17</cumple>
@@ -42,6 +45,7 @@
     <mejoresRegalos>Bollito de arce, Higo chumbo, Ojo de tigre, Pizza</mejoresRegalos>
     <precio moneda="oro" objeto="Pizza">600.0</precio>
   </elemento>
+
   <elemento id="005">
     <nombre>Sebastian</nombre>
     <cumple>Invierno 10</cumple>
@@ -54,6 +58,7 @@
       calabaza</mejoresRegalos>
     <precio moneda="oro" objeto="Sopa de calabaza">250.0</precio>
   </elemento>
+
   <elemento id="006">
     <nombre>Shane</nombre>
     <cumple>Verano 20</cumple>
@@ -63,7 +68,9 @@
     <matrimonio>Si</matrimonio>
     <mejoresRegalos>Bocaditos de pimiento, Cerveza, Chile, Pizza</mejoresRegalos>
     <precio moneda="oro" objeto="cerveza">400.0</precio>
+    <corazón></corazón>
   </elemento>
+
   <elemento id="006">
     <nombre>Abigail</nombre>
     <cumple>Otoño 13</cumple>
@@ -76,6 +83,7 @@
       Pastel de chocolate, Pez globo, Pudding de plátano, Tarta de moras</mejoresRegalos>
     <precio moneda="oro" objeto="Pez globo">600.0</precio>
   </elemento>
+
   <elemento id="007">
     <nombre>Emily</nombre>
     <cumple>Primavera 17</cumple>
@@ -88,6 +96,7 @@
       Tela, Topacio</mejoresRegalos>
     <precio moneda="oro" objeto="Huevo de loro">250.0</precio>
   </elemento>
+
   <elemento id="008">
     <nombre>Haley</nombre>
     <cumple>Primavera 14</cumple>
@@ -99,6 +108,7 @@
     <mejoresRegalos>Coco, Girasol, Macedonia, Pastel rosa</mejoresRegalos>
     <precio moneda="oro" objeto="Coco">200.0</precio>
   </elemento>
+
   <elemento id="009">
     <nombre>Leah</nombre>
     <cumple>Invierno 23</cumple>
@@ -110,6 +120,7 @@
       Vino</mejoresRegalos>
     <precio moneda="oro" objeto="Ensalada">220.0</precio>
   </elemento>
+
   <elemento id="010">
     <nombre>Maru</nombre>
     <cumple>Verano 10</cumple>
@@ -121,6 +132,7 @@
       ruibarbo, Fresa</mejoresRegalos>
     <precio moneda="oro" objeto="Premio de los mineros">1000.0</precio>
   </elemento>
+  
   <elemento id="011">
     <nombre>Peny</nombre>
     <cumple>Otoño 2</cumple>
