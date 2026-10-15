@@ -51,7 +51,7 @@
     <cumple>Invierno 10</cumple>
     <vive>La montaña</vive>
     <direcion>Carretera de la Montaña,24</direcion>
-    <familia>Robin(Madre),Demetrius(Padrastro) y Maru(Media hermana)</familia>
+    <familia>Robin(Madre), Demetrius(Padrastro) y Maru(Media hermana)</familia>
     <matrimonio>Si</matrimonio>
     <visitaClinica>Verano 4</visitaClinica>
     <mejoresRegalos>Huevo de rana,Huevo sombrío, Lágrima helada, Obsidiana, Sashimi, Sopa de
@@ -71,7 +71,7 @@
     <corazón></corazón>
   </elemento>
 
-  <elemento id="006">
+  <elemento id="007">
     <nombre>Abigail</nombre>
     <cumple>Otoño 13</cumple>
     <vive>Pueblo Pelícano</vive>
@@ -84,7 +84,7 @@
     <precio moneda="oro" objeto="Pez globo">600.0</precio>
   </elemento>
 
-  <elemento id="007">
+  <elemento id="008">
     <nombre>Emily</nombre>
     <cumple>Primavera 17</cumple>
     <vive>Pueblo Pelícano</vive>
@@ -97,7 +97,7 @@
     <precio moneda="oro" objeto="Huevo de loro">250.0</precio>
   </elemento>
 
-  <elemento id="008">
+  <elemento id="009">
     <nombre>Haley</nombre>
     <cumple>Primavera 14</cumple>
     <vive>Pueblo Pelícano</vive>
@@ -109,7 +109,7 @@
     <precio moneda="oro" objeto="Coco">200.0</precio>
   </elemento>
 
-  <elemento id="009">
+  <elemento id="010">
     <nombre>Leah</nombre>
     <cumple>Invierno 23</cumple>
     <vive>Bosque Tizón</vive>
@@ -121,7 +121,7 @@
     <precio moneda="oro" objeto="Ensalada">220.0</precio>
   </elemento>
 
-  <elemento id="010">
+  <elemento id="011">
     <nombre>Maru</nombre>
     <cumple>Verano 10</cumple>
     <vive>La montaña</vive>
@@ -132,8 +132,8 @@
       ruibarbo, Fresa</mejoresRegalos>
     <precio moneda="oro" objeto="Premio de los mineros">1000.0</precio>
   </elemento>
-  
-  <elemento id="011">
+
+  <elemento id="012">
     <nombre>Peny</nombre>
     <cumple>Otoño 2</cumple>
     <vive>Pueblo Pelícano</vive>
