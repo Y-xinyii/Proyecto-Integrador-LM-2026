@@ -1,9 +1,11 @@
+**UD1-UD2 · Tarea de evaluación: Mi proyecto web (1.ª entrega · HTML + XML)**
+
 ## Reto 1 qué he hecho?
 Nombre: xinyi ye
 Usuario de GitHub: yexinyi0609-nini
 Tema elegido: un guía de juego sobre Stardew Valley
 Por qué lo he elegido (3-4 líneas con tus palabras): porque quiero crear una guía de juego ordenador para todo el mundo , sobre todo para las personas que están en China , ya que ellos no pueden entrar en la página oficial de Stardew Valley para buscar la guía.
-*palabra del día: meta*
+
 
 
 ## Reto 2 qué he hecho en esta entrega?
@@ -16,3 +18,7 @@ He creado los datos personales de cada aldeanos con atributos id único y sus re
 
 ## Reta 4, qué he hecho?
 He revisado los error que había en index.html, he terminado de rellenar los datos de los aldeanos en datos.xml. Web se puede abri correctamente con Live Server y con error 0.
+
+
+**UD3 · Práctica: Estructura HTML de mi proyecto web (de una página a un sitio)**
+*palabra del día: contexto*
