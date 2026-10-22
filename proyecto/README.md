@@ -22,3 +22,8 @@ He revisado los error que había en index.html, he terminado de rellenar los dat
 
 **UD3 · Práctica: Estructura HTML de mi proyecto web (de una página a un sitio)**
 *palabra del día: contexto*
+
+## Reto 1 - «UD3 · Estructura HTML»
+-- Metadatos incompletos: el título no es Inicio|nombre , el formato es incorrecto y falta meta description (una frase tuya que resuma la página), keywords (al menos 4 palabras de tu tema) y author (tu nombre).
+-- Falta la estructura de bloques div. no hay div encabezado, ni divs para cada caítulo, ni comentarios para cada bloque ni sangría uniforme.
+-- Faltan varios elementos obligatorios: hr, blockquote, pre, un pie con(&copy) y otras entidades.
