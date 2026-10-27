@@ -29,3 +29,14 @@ He revisado los error que había en index.html, he terminado de rellenar los dat
 -- Falta la estructura de bloques div. no hay div encabezado, ni divs para cada caítulo, ni comentarios para cada bloque ni sangría uniforme.
 
 -- Faltan varios elementos obligatorios: hr, blockquote, pre, un pie con(&copy) y otras entidades.
+
+## Reto 4 - Mapa del sitio
+
+Mi página web trata sobre el videojuego Stardew Valley. El objetivo es ofrecer información sobre el juego, sus aldeanos, los cultivos y la gestión de la granja.
+
+| Fichero       | title     | Qué contiene |
+|---------------|-------------------|---------------|
+|   index.htm   | Inicio   \| Guía de juego | Presentación del juego, información general y opinión personal. |
+| aldeanos.html | Aldeanos \| Guía de juego | Información sobre los aldeanos, sus nombres y sus regalos favoritos. |
+| cultivos.html | Cultivos \| Guía de juego | Información sobre los cultivos, las estaciones y las cosechas. |
+| granja.html   | Granja   \| Guía de juego | Información sobre la granja, los animales y las actividades del juego. |
