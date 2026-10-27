@@ -34,9 +34,9 @@ He revisado los error que había en index.html, he terminado de rellenar los dat
 
 Mi página web trata sobre el videojuego Stardew Valley. El objetivo es ofrecer información sobre el juego, sus aldeanos, los cultivos y la gestión de la granja.
 
-| Fichero       | title     | Qué contiene |
-|---------------|-------------------|---------------|
-|   index.htm   | Inicio   \| Guía de juego | Presentación del juego, información general y opinión personal. |
-| aldeanos.html | Aldeanos \| Guía de juego | Información sobre los aldeanos, sus nombres y sus regalos favoritos. |
-| cultivos.html | Cultivos \| Guía de juego | Información sobre los cultivos, las estaciones y las cosechas. |
+|    Ficher     |          title            |                           Qué contiene                                 |
+|---------------|---------------------------|------------------------------------------------------------------------|
+|   index.htm   | Inicio   \| Guía de juego | Presentación del juego, información general y opinión personal.        |
+| aldeanos.html | Aldeanos \| Guía de juego | Información sobre los aldeanos, sus nombres y sus regalos favoritos.   |
+| cultivos.html | Cultivos \| Guía de juego | Información sobre los cultivos, las estaciones y las cosechas.         |
 | granja.html   | Granja   \| Guía de juego | Información sobre la granja, los animales y las actividades del juego. |
