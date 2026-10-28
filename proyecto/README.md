@@ -52,11 +52,11 @@ He utilizado el validador W3C para comprobar la estructura de las cuatro página
 | index.html    | 0 errores                                      | No ha sido necesario realizar correcciones.                         |
 | aldeanos.html | 0 errores                                      | No ha sido necesario realizar correcciones.                         |
 | cultivos.html | He cerrado </body> antes, en la línea 20.      | Corregido, movido a la lína 123.                                    |
-| cultivos.html | Encoding not supported                         | Cambié charset="viewport" por name="viewport".                      |
-| cultivos.html | Element hi not allowed                         | Cambié <hi> por <h1>.                                               |
+| cultivos.html | Encoding not supported.                        | Cambié charset="viewport" por name="viewport".                      |
+| cultivos.html | Element hi not allowed.                        | Cambié <hi> por <h1>.                                               |
 | granja.html   | Stray end tag html.                            | Coloqué </html> al final del documento, después de </body>.         |
 | granja.html   | Character encoding was not declared.           | Añadí <!DOCTYPE html> y revisé <meta charset="UTF-8">.              |
-| granja.html   |	Stray start tag body                         | Corregí el orden de las etiquetas <body> y </html>.                 |
+| granja.html   | Stray start tag body.                          | Corregí el orden de las etiquetas <body> y </html>.                 |
 
 ### ¿Qué he hecho en esta unidad?
 
