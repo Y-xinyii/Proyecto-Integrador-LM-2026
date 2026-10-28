@@ -40,3 +40,26 @@ Mi página web trata sobre el videojuego Stardew Valley. El objetivo es ofrecer 
 | aldeanos.html | Aldeanos \| Guía de juego | Información sobre los aldeanos, sus nombres y sus regalos favoritos.   |
 | cultivos.html | Cultivos \| Guía de juego | Información sobre los cultivos, las estaciones y las cosechas.         |
 | granja.html   | Granja   \| Guía de juego | Información sobre la granja, los animales y las actividades del juego. |
+
+
+
+### Validación de las páginas HTML
+
+He utilizado el validador W3C para comprobar la estructura de las cuatro páginas de mi sitio web.
+
+|    Página     |              Errores encontrados               |                       Correcciones realizadas                       |
+|---------------|------------------------------------------------|---------------------------------------------------------------------|
+| index.html    | 0 errores                                      | No ha sido necesario realizar correcciones.                         |
+| aldeanos.html | 0 errores                                      | No ha sido necesario realizar correcciones.                         |
+| cultivos.html | He cerrado </body> antes, en la línea 20.      | Corregido, movido a la lína 123.                                    |
+| cultivos.html | Encoding not supported                         | Cambié charset="viewport" por name="viewport".                      |
+| cultivos.html | Element hi not allowed                         | Cambié <hi> por <h1>.                                               |
+| granja.html   | Stray end tag html.                            | Coloqué </html> al final del documento, después de </body>.         |
+| granja.html   | Character encoding was not declared.           | Añadí <!DOCTYPE html> y revisé <meta charset="UTF-8">.              |
+| granja.html   |	Stray start tag body                         | Corregí el orden de las etiquetas <body> y </html>.                 |
+
+### ¿Qué he hecho en esta unidad?
+
+En esta unidad he creado una página web sobre Stardew Valley utilizando HTML. He organizado la información en cuatro páginas: inicio, aldeanos, cultivos y tipos de granja.
+
+También he utilizado diferentes etiquetas HTML para organizar los contenidos, como títulos, párrafos, listas y bloques de información. Por último, he aprendido a utilizar el validador W3C para encontrar errores y corregirlos de html.
