@@ -66,3 +66,9 @@ También he utilizado diferentes etiquetas HTML para organizar los contenidos, c
 
 **UD5 · Práctica: Tablas y formulario de contacto en mi proyecto web**
 *palabra del día: día*
+
+### UD5 · Tablas y formularios
+
+En la página cultivos.html voy a añadir una tabla con información sobre los cultivos.
+
+En contacto.html voy a crear un formulario para que los visitantes puedan introducir su nombre, correo electrónico y compartir sus opiniones sobre Stardew Valley.
