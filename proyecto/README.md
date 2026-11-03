@@ -21,7 +21,7 @@ He revisado los error que había en index.html, he terminado de rellenar los dat
 
 
 **UD3 · Práctica: Estructura HTML de mi proyecto web (de una página a un sitio)**
-*palabra del día: contexto*
+
 
 ## Reto 1 - «UD3 · Estructura HTML»
 -- Metadatos incompletos: el título no es Inicio|nombre , el formato es incorrecto y falta meta description (una frase tuya que resuma la página), keywords (al menos 4 palabras de tu tema) y author (tu nombre).
@@ -63,3 +63,6 @@ He utilizado el validador W3C para comprobar la estructura de las cuatro página
 En esta unidad he creado una página web sobre Stardew Valley utilizando HTML. He organizado la información en cuatro páginas: inicio, aldeanos, cultivos y tipos de granja.
 
 También he utilizado diferentes etiquetas HTML para organizar los contenidos, como títulos, párrafos, listas y bloques de información. Por último, he aprendido a utilizar el validador W3C para encontrar errores y corregirlos de html.
+
+**UD5 · Práctica: Tablas y formulario de contacto en mi proyecto web**
+*palabra del día: día*
