@@ -17,18 +17,26 @@
   </div>
 
   <form action="#" method="post">
-    <fieldset>Tus datos</fieldset>
+    <fieldset>
+      <legend>Tus datos</legend>
+    <div>
+      <label for="nombre">Nombre: </label>
+      <input type="text" id="nombre" name="nombre" required maxlength="40" autofocus>
+    </div>
 
-    <label for="nombre">Nombre: </label>
-    <input type="text" id="nombre" name="nombre" required maxlength="40" autofocus>
+    <div>
+      <lavel for="correo">Correo electrónico: </lavel>
+      <input type="email" id="correo" name="correo" required maxlength="50">
+    </div>
 
-    <lavel for="correo elecrtónico">Correo electrónico: </lavel>
-    <input type="email" id="correo" name="correo" required maxlength="50">
+    <div>
+      <lavel for="telefono">Teléfono: </lavel>
+      <input type="tel" id="teléfono" name="teléfono" required maxlength="20">
+    </div>
 
-    <lavel for="tel">Teléfono: </lavel>
-    <input type="tel" id="teléfono" name="teléfono" required maxlength="20">
+    </fieldset>
   </form>
-
+  
 
   <!--Pie de página-->
     <div>
