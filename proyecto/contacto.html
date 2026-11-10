@@ -12,15 +12,22 @@
 <body>
   <!-- Cabecera -->
   <div>
-    <h1>Aldeanos de Stardew Valley</h1>
-    <p>En esta página encontrarás información sobre los aldeanos del juego.</p>
+    <h1>Contacto de Stardew Valley</h1>
+    <p>Rellena en el formurario para realizar una consulta de Stardew Valley.</p>
   </div>
 
-  <!--Formulario de contacto-->
-  <div>
-    <h2>Formulario de contacto</h2>
-    <p>Rellena el el formuario para realizar una consulta de Stardew Valley.</p>
-  </div>
+  <form action="#" method="post">
+    <fieldset>Tus datos</fieldset>
+
+    <label for="nombre">Nombre: </label>
+    <input type="text" id="nombre" name="nombre" required maxlength="40" autofocus>
+
+    <lavel for="correo elecrtónico">Correo electrónico: </lavel>
+    <input type="email" id="correo" name="correo" required maxlength="50">
+
+    <lavel for="tel">Teléfono: </lavel>
+    <input type="tel" id="teléfono" name="teléfono" required maxlength="20">
+  </form>
 
 
   <!--Pie de página-->
