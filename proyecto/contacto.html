@@ -21,26 +21,28 @@
       <legend>Tus datos</legend>
     <div>
       <label for="nombre">Nombre: </label>
-      <input type="text" id="nombre" name="nombre" required maxlength="40" autofocus>
+      <input type="text" id="nombre" name="nombre" required maxlength="40" placeholder="Escribe tu nombre" autofocus>
     </div>
 
     <div>
-      <lavel for="correo">Correo electrónico: </lavel>
+      <label for="correo">Correo electrónico: </lavel>
       <input type="email" id="correo" name="correo" required maxlength="50">
     </div>
 
     <div>
       <label for="telefono">Teléfono: </label>
-      <input type="tel" id="teléfono" name="teléfono" required maxlength="20">
+      <input type="tel" id="telefono" name="telefono" required maxlength="20">
     </div>
     </fieldset>
+
+    <br> <!--Separar arríba y abajo-->
 
     <fieldset>
       <legend>Tu consulta</legend>
       <div>
          <label for="estacion_favorita">¿Cuál es tu estación favorita?</label>
          <select id="estacion_favorita" name="estacion">
-            <option value="">--Selecciona una estación--</option>
+            <option value="" selected>--Selecciona una estación--</option>
             <option value="primavera">Primavera</option>
             <option value="verano">Verano</option>
             <option value="otono">Otoño</option>
@@ -48,24 +50,54 @@
          </select>
       </div>
 
+      <br>
+
       <div>
         <p>¿Qué actividades te gustan de Stardew Valley?</p>
 
-        <input type="checkbox" id="cultivar" name="actividades" value="cultivar">
         <label for="cultivar">Cultivar</label>
+        <input type="checkbox" id="cultivar" name="actividades" value="cultivar">
 
-        <input type="checkbox" id="pescar" name="actividades" value="pescar">
         <label for="pescar">Pescar</label>
+        <input type="checkbox" id="pescar" name="actividades" value="pescar">
 
-       <input type="checkbox" id="minar" name="actividades" value="minar">
-       <label for="minar">Minar</label>
-       
+        <label for="minar">Minar</label> 
+         <input type="checkbox" id="minar" name="actividades" value="minar">    
       </div>
+
+      <br>
+
+      <div>
+        <p>¿Qué opinas de Stardew Valley?</p>
+
+        <label for="excelente">Excelente</label>
+        <input type="radio" id="excelente" name="opinion" value="excelente" checked>
+
+        <label for="bueno">Bueno</label>
+        <input type="radio" id="bueno" name="opinion" value="bueno">
+
+        <label for="regular">Regular</label>
+        <input type="radio" id="regular" name="opinion" value="regular">
+      </div>
+
+      <br>
+      <br>
+
+      <div>
+        <label for="mensaje">Mensaje: </label>
+        <br>
+        <textarea id="mensaje" name="mensaje" rows="5" cols="40" minlength="10" placeholder="Escribe aquí tu consulta sobre Stardew Valley..."></textarea>
+      </div>
+
     </fieldset>
+
+    <div>
+    <button type="submit">Enviar</button>
+    <button type="reset">Borrar datos</button>
+  </div>
     
   </form>
   
-
   <!--Pie de página-->
     <div>
         <p>&copy;2026 Xinyi Ye</p>
