@@ -34,12 +34,13 @@ He revisado los error que había en index.html, he terminado de rellenar los dat
 
 Mi página web trata sobre el videojuego Stardew Valley. El objetivo es ofrecer información sobre el juego, sus aldeanos, los cultivos y la gestión de la granja.
 
-|    Ficher     |          title            |                           Qué contiene                                 |
-|---------------|---------------------------|------------------------------------------------------------------------|
-|   index.htm   | Inicio   \| Guía de juego | Presentación del juego, información general y opinión personal.        |
-| aldeanos.html | Aldeanos \| Guía de juego | Información sobre los aldeanos, sus nombres y sus regalos favoritos.   |
-| cultivos.html | Cultivos \| Guía de juego | Información sobre los cultivos, las estaciones y las cosechas.         |
-| granja.html   | Granja   \| Guía de juego | Información sobre la granja, los animales y las actividades del juego. |
+|    Ficher     |                title               |                           Qué contiene                                 |
+|---------------|------------------------------------|------------------------------------------------------------------------|
+|   index.htm   | Inicio   \| Guía de juego          | Presentación del juego, información general y opinión personal.        |
+| aldeanos.html | Aldeanos \| Guía de juego          | Información sobre los aldeanos, sus nombres y sus regalos favoritos.   |
+| cultivos.html | Cultivos \| Guía de juego          | Información sobre los cultivos, las estaciones y las cosechas.         |
+| granja.html   | Granja   \| Guía de juego          | Información sobre la granja, los animales y las actividades del juego. |
+| contacto.html | Contacto \| Guía de Stardew Valley | Formulario de contacto sobre Stardew Valley.                           |
 
 
 
@@ -73,13 +74,12 @@ En la página cultivos.html voy a añadir una tabla con información sobre los c
 
 En contacto.html voy a crear un formulario para que los visitantes puedan introducir su nombre, correo electrónico y compartir sus opiniones sobre Stardew Valley.
 
+
 ### Prueba del formulario con GET
 
-He cambiado temporalmente el método del formulario de POST a GET.
+He cambiado temporalmente el método del formulario de POST a GET.Al pulsar el botón Enviar, los datos se desaparecen y aparecen en la URL del navegador.
 
-Al pulsar el botón Enviar, los datos se desaparecen y aparecen en la URL del navegador.
-
-URL obtenida(aquí pego la URL completa de mi prueba) :
+URL obtenida :
 http://127.0.0.1:5500/proyecto/contacto.html?nombre=Ana&correo=ana%40gmail.com&telefono=123456789&estacion=verano&actividades=cultivar&opinion=excelente&mensaje=Me+encanta+Stardew+Valley.#
 
 Después he vuelto a cambiar el método a POST. He utilizado POST porque los datos del formulario no aparecen en la URL. Con GET, los datos sí aparecen en la dirección del navegador.
