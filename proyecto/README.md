@@ -72,3 +72,14 @@ También he utilizado diferentes etiquetas HTML para organizar los contenidos, c
 En la página cultivos.html voy a añadir una tabla con información sobre los cultivos.
 
 En contacto.html voy a crear un formulario para que los visitantes puedan introducir su nombre, correo electrónico y compartir sus opiniones sobre Stardew Valley.
+
+### Prueba del formulario con GET
+
+He cambiado temporalmente el método del formulario de POST a GET.
+
+Al pulsar el botón Enviar, los datos se desaparecen y aparecen en la URL del navegador.
+
+URL obtenida(aquí pego la URL completa de mi prueba) :
+http://127.0.0.1:5500/proyecto/contacto.html?nombre=Ana&correo=ana%40gmail.com&telefono=123456789&estacion=verano&actividades=cultivar&opinion=excelente&mensaje=Me+encanta+Stardew+Valley.#
+
+Después he vuelto a cambiar el método a POST. He utilizado POST porque los datos del formulario no aparecen en la URL. Con GET, los datos sí aparecen en la dirección del navegador.
