@@ -88,7 +88,7 @@ Después he vuelto a cambiar el método a POST. He utilizado POST porque los dat
 
 |     Archivo   |              Error encontrado              |                            Solución                               |
 |---------------|--------------------------------------------|-------------------------------------------------------------------|
-| contacto.html | Etiquetas label mal cerradas               | He corregido las etiquetas label.                                 |
+| contacto.html | Etiquetas label mal cerradas               | He corregido las etiquetas lavel a label.                                 |
 | cultivos.html | Filas con un número incorrecto de columnas | He corregido el colgroup para que coincida con las 4 columnas de la tabla. |
 | cultivos.html | Atributo rowpan incorrecto                 | He cambiado rowpan por rowspan.                                   |
 | cultivos.html | Etiqueta tfoot fuera de la tabla           | He colocado tfoot dentro de table.                                |
@@ -98,4 +98,4 @@ Después de corregir los errores, he vuelto a validar las dos páginas y ambas t
 
 ### Qué he hecho en esta unidad
 
-He aprendido a crear tablas y formularios en HTML. He añadido una tabla de cultivos de Stardew Valley con información de las cuatro estaciones. También he creado un formulario de contacto para que los usuarios puedan escribir sus datos y opiniones. Además, he comprobado las páginas con el validador W3C y he corregido los errores.
+He aprendido a crear tablas y formularios en HTML. He añadido una tabla de cultivos de Stardew Valley con información de las cuatro estaciones. También he creado un formulario de contacto para que los usuarios puedan escribir sus datos y opiniones. Por lo último, he comprobado las páginas con el validador W3C y he corregido los errores.
