@@ -83,3 +83,19 @@ URL obtenida :
 http://127.0.0.1:5500/proyecto/contacto.html?nombre=Ana&correo=ana%40gmail.com&telefono=123456789&estacion=verano&actividades=cultivar&opinion=excelente&mensaje=Me+encanta+Stardew+Valley.#
 
 Después he vuelto a cambiar el método a POST. He utilizado POST porque los datos del formulario no aparecen en la URL. Con GET, los datos sí aparecen en la dirección del navegador.
+
+### Validación W3C
+
+|     Archivo   |              Error encontrado              |                            Solución                               |
+|---------------|--------------------------------------------|-------------------------------------------------------------------|
+| contacto.html | Etiquetas label mal cerradas               | He corregido las etiquetas label.                                 |
+| cultivos.html | Filas con un número incorrecto de columnas | He corregido el colgroup para que coincida con las 4 columnas de la tabla. |
+| cultivos.html | Atributo rowpan incorrecto                 | He cambiado rowpan por rowspan.                                   |
+| cultivos.html | Etiqueta tfoot fuera de la tabla           | He colocado tfoot dentro de table.                                |
+| cultivos.html | Etiqueta div fuera de body                 | He movido el cierre de body después del pie de página.            |
+
+Después de corregir los errores, he vuelto a validar las dos páginas y ambas tienen 0 errores.
+
+### Qué he hecho en esta unidad
+
+He aprendido a crear tablas y formularios en HTML. He añadido una tabla de cultivos de Stardew Valley con información de las cuatro estaciones. También he creado un formulario de contacto para que los usuarios puedan escribir sus datos y opiniones. Además, he comprobado las páginas con el validador W3C y he corregido los errores.
