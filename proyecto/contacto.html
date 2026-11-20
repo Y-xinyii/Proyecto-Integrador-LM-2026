@@ -33,12 +33,29 @@
       <label for="telefono">Teléfono: </label>
       <input type="tel" id="telefono" name="telefono" required maxlength="20">
     </div>
+
+    <div>
+      <label for="fecha">Fecha de nacimiento:</label>
+      <input type="date" id="fecha" name="fecha">
+    </div>
+
+    <div>
+      <label for="web">Página web:</label>
+      <input type="url" id="web" name="web" placeholder="https://ejemplo.com">
+    </div>
     </fieldset>
 
     <br> <!--Separar arríba y abajo-->
 
     <fieldset>
       <legend>Tu consulta</legend>
+      <div>
+        <label for="horas">¿Cuántas horas juegas a la semana?</label>
+         <input type="number" id="horas" name="horas" min="0" max="70" step="1">
+      </div>
+
+      <br>
+      
       <div>
          <label for="estacion_favorita">¿Cuál es tu estación favorita?</label>
          <select id="estacion_favorita" name="estacion">
